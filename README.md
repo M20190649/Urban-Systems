@@ -1,1 +1,5 @@
-# Urban-Systems
+# Urban-Systems -Mapping and detecting slums in Kampala Uganda.
+Urban areas in developing countries are constantly faced with rapid growth of slums due to rural urban migration. Uganda’s capital Kampala is currently confronted with an increased sprawl of slums, and this is hindering some physical planning efforts in the city. Detection of slums and predicting future slum areas is a crucial step for physical planners and other stakeholders to formulate effective interventions. 
+This script dives into some methods for mapping slums. Geographical information from open street map is used in this study, we obtained building footprints for areas around Katanga which is a slum suburb in Kampala town council. Computations were done to explore quantitative parameters derived from building footprints with a goal of deriving slum regions and, a topology-based algorithm is applied to identify spatial relationships within Katanga slum area. The result is a map showing slum areas and this serves as an innovative solution for detecting slums, supporting urban planners in their development efforts. 
+
+
